@@ -26,7 +26,6 @@
 .config/dunst/
 .config/epdfview/
 .config/falkon/
-.config/fish/
 .config/flameshot/
 .config/fontconfig/
 .config/gconf/
@@ -90,3 +89,5 @@ Leetcode/
 OneDrive/
 Pictures/
 .config/nvim/undo/
+.config/albert/core.db
+.config/obsidian
