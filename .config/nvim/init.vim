@@ -154,8 +154,6 @@ nnoremap <leader>k :cp<CR>
 " }}}
 "
 
-let g:python3_host_prog = '/usr/bin/python3'
-
 " defx.nvim
 " 使用 ,e 切换显示文件浏览，使用 ,a 查找到当前文件位置
 nnoremap <silent> <leader>e
@@ -277,7 +275,7 @@ set cursorline
 let g:gh_open_command = 'fn() { echo "$@" | pbcopy; }; fn '
 
 " Python3 support
-let g:python3_host_prog = '/usr/local/bin/python3'
+let g:python3_host_prog = '/usr/bin/python3'
 
 " Theme
 let isLight = 0

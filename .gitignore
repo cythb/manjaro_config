@@ -100,3 +100,4 @@ Pictures/
 .config/Mousepad/
 .thumbnails/
 .var/
+.pylint.d/
