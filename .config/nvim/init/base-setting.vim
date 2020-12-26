@@ -61,3 +61,15 @@ set incsearch
 set showmatch
 set hlsearch
 
+" 显示行号
+" set relativenumber
+set number
+
+"高亮当前行和列
+set cursorcolumn
+"highlight CursorColumn cterm=NONE ctermbg=darkblue ctermfg=green guibg=NONE guifg=NONE
+set cursorline
+"highlight CursorLine   cterm=NONE ctermbg=darkblue ctermfg=green guibg=NONE guifg=NONE
+
+"背景透明
+"hi Normal guibg=NONE ctermbg=NONE

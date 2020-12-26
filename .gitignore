@@ -101,3 +101,4 @@ Pictures/
 .thumbnails/
 .var/
 .pylint.d/
+.config/fcitx/log/

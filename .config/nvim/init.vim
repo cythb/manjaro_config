@@ -260,17 +260,6 @@ nnoremap <Leader>8 :8b<CR>
 nnoremap <Leader>9 :9b<CR>
 nnoremap <Leader>0 :10b<CR>
 
-" 显示行号
-"set relativenumber
-set number
-
-" 高亮当前行和列
-"set cursorcolumn
-"highlight CursorColumn cterm=NONE ctermbg=darkblue ctermfg=green guibg=NONE guifg=NONE
-
-set cursorline
-"highlight CursorLine   cterm=NONE ctermbg=darkblue ctermfg=green guibg=NONE guifg=NONE
-
 " Vim gh line
 let g:gh_open_command = 'fn() { echo "$@" | pbcopy; }; fn '
 
@@ -400,3 +389,5 @@ endfunction
 
 let g:coc_snippet_next = '<tab>'
 " coc-snippets end
+
+hi Normal guibg=NONE ctermbg=NONE
