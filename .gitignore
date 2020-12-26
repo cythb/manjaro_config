@@ -91,3 +91,9 @@ Pictures/
 .config/nvim/undo/
 .config/albert/core.db
 .config/obsidian
+.config/fcitx/cached_layout
+.config/fcitx/clipboard/
+.config/fcitx/conf/
+.config/fcitx/data/
+.config/fcitx/dbus/
+.config/fcitx/googlepinyin/
