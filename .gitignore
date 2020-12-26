@@ -97,3 +97,6 @@ Pictures/
 .config/fcitx/data/
 .config/fcitx/dbus/
 .config/fcitx/googlepinyin/
+.config/Mousepad/
+.thumbnails/
+.var/
