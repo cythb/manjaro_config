@@ -102,3 +102,13 @@ Pictures/
 .var/
 .pylint.d/
 .config/fcitx/log/
+.config/Electron/
+.config/GIMP/
+.config/gtk-2.0/
+.config/pulse/
+.dmrc
+.java/
+.lesshst
+.npm/
+.openjfx/
+.wget-hsts
