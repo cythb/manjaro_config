@@ -285,6 +285,7 @@ let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
 
 " disbale syntax highlighting to prevent performence issue
 let g:defx_icons_enable_syntax_highlight = 1
+let defx#_python_version_check = '3.9.1'
 
 " Markdown
 let vim_markdown_preview_hotkey='<C-m>'
