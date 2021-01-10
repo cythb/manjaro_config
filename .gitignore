@@ -46,8 +46,6 @@
 .config/onedrive/
 .config/pamac/
 .config/pcmanfm/
-.config/picom.conf
-.config/picom/
 .config/qt5ct/
 .config/ranger/
 .config/user-dirs.dirs
