@@ -110,3 +110,6 @@ Pictures/
 .npm/
 .openjfx/
 .wget-hsts
+.cargo/
+.rustup/
+.zshenv
